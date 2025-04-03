@@ -3,6 +3,7 @@
 #include "Math/Cartesian3D.h"
 #include "Math/Polar3D.h"
 #include "Math/CylindricalEta3D.h"
+#include "DataFormats/TrackReco/interface/HitPattern.h"
 #include "DataFormats/TrackReco/interface/Track.h"
 #include "DataFormats/TrackReco/interface/TrackFwd.h"
 #include "DataFormats/TrackReco/interface/TrackExtra.h"
